@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/karthikeyan-R16/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119421232/b61194fd-e707-4aa7-bc23-039b98c5a864)
+
+
+### Name: KARTHIKEYAN R
+### Register Number: 212222240045
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
